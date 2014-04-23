@@ -1,0 +1,8 @@
+Error 1098, El archivo [C:\sistemas\foxbin2prg\CONFIG\config.fpw] no está soportado
+convertir, 1323
+DO c:\sistemas\foxbin2prg\foxbin2prg.exe WITH "C:\sistemas\Futura9\include\config.fpw"
+
+
+
+
+Archivo origen: C:\sistemas\foxbin2prg\CONFIG\config.fpw
